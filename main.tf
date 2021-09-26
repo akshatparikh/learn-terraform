@@ -8,8 +8,8 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("wordpair-306618-4d45eee5722f.json")
-  project     = "wordpair-306618"
+  credentials = file("fileName.json")
+  project     = "project_id"
   region  = var.region
   zone    = var.zone
 }

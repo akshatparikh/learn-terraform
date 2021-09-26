@@ -1,2 +1,2 @@
-project                  = "wordpair-306618"
-credentials_file         = "wordpair-306618-4d45eee5722f.json"
+project                  = "project_id"
+credentials_file         = "fileName.json"
